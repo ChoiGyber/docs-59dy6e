@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-42dv8p.citysinglescommunity.com/sitemap.xml
